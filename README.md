@@ -2,7 +2,7 @@
 A repository dedicated to data structures and algorithm problems for tech interviews. 
 In this repository, I have solved the most frequently asked questions in Big Tech Interviews. 
 
-Topics covered are:
+**Contents:**
 
 1. Arrays & Strings
 2. Two Pointer Pattern
